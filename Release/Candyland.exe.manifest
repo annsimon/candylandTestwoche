@@ -1423,13 +1423,13 @@
       <dsig:DigestValue>EvOIGdh5qvSdIDELLRzI9Bjnj1g=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\Scenes\theWorld.xml" size="478376">
+  <file name="Content\Scenes\theWorld.xml" size="478380">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>pB1DcEONkYTKUe+Aeb8y36j8fhY=</dsig:DigestValue>
+      <dsig:DigestValue>7YnL+JN24PKcfkJLVAcnGuQ9rV4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Scenes\tmxTest.xml" size="238672">
